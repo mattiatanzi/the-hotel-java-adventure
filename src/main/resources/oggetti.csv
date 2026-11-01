@@ -1,0 +1,8 @@
+4 | Cassetto | Un cassetto della scrivania apribile con una giusta combinazione. | C | 3 | -1 | false | true
+1 | PC | Un vecchio computer della reception. Richiede una password. | O | 1 | -1 | false | false
+2 | Quaderno | Un piccolo quaderno nero. Contiene diverse password, ne scorgi una in particolare -> PC_HALL: the_hotel | O | -1 | 4 | true | false 
+3 | Diario | Il diario del direttore. Contiene uno strano indovinello: "Cassetto? L'anno in cui tutto è iniziato..." | O | 3 | -1 | true | false
+5 | Torcia | Una potente torcia a led, fondamentale al buio. | O | -1 | 4 | true | false
+6 | Fusibile | Un fusibile industriale da 20A. | O | -1 | 4 | true | false
+7 | Generatore | Il quadro elettrico principale. Serve qualcosa per rimediare al guasto. | O | 4 | -1 | false | false
+8 | Fermacarte | Un fermacarte pesante, macchiato di sangue. Ha le iniziali del direttore! | O | 5 | -1 | true | false
